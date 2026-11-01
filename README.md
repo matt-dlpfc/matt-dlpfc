@@ -1,4 +1,5 @@
 ## Hi there 👋
+[OUT OF DATE AS OF MAY 2025]
 
 In Oct 2024 I decided I wanted to begin to develop and share my "mini-tools" or data analysis projects publicly, so here I am.
 

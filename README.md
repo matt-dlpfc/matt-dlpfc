@@ -1,27 +1,23 @@
-## Hi there 👋
-[OUT OF DATE AS OF MAY 2025]
+## Hi, I'm Matteo 👋
 
-In Oct 2024 I decided I wanted to begin to develop and share my "mini-tools" or data analysis projects publicly, so here I am.
+I'm not an engineer by training. But I like to build some public or private projects every once in a while.
 
-I do not have a computer science or engineering background, and I do love (deep) tech, making sense of the world, learning new and unfamiliar things, and growing my skills so that I can increase the leverage of my efforts. And of course, AI and all its fascinating, chaotic consequences: technological, socioeconomic, legal, philosophical, work-related, and on entrepreneurship/startups.
+I've been doing outbound pipeline generation at [Kapa](https://www.kapa.ai/) (YC S23) for more than a year now. The technical half of the job was building custom demos (ingesting a prospect's docs, GitHub repos and community into Kapa, then shipping it behind a URL with Vercel and loads of assistance from Claude Code), and Claude skills that did the account research behind my outreach (+ way more). Before that (2023-mid 2025), strategy and market research at Abzu, an explainable-AI company for drug discovery, where I built a dataset of the siRNA clinical landscape at the time.
 
-Mixing all of this up, we get my current purpose of sharing what I work on in github:
-- publishing mini-tools that I create for myself. If they are useful to others too, then I am glad. 
-- practicing data analysis (and what it takes) to derive some insights of whatever phenomena, as long as I find it interesting and worth my while.
-- constantly improving as an analyst, domain expert, professional, and "product-person".
-- possibly connect with others who share some of the things I mentioned 😁
+### How I work here
+- I like to think of this space as a messy workshop (certainly not a fine arts gallery)
+- I build with a lot of AI help, mostly Claude Code. I care about getting to the outcome I want, efficiently and safely, and about understanding what I shipped and how it works.
+- Most of what I build starts as a tool for myself. If it's useful to you too, great!
 
-This brings me to my current approach:
-- I do not care about showcasing the most efficient code or the most elegant SQL/Python scripts or reports for data analyses. I am not using these repos as a "fine arts gallery"; rather, this is to be meant as a workshop: messy, work in progress, not so polished, real.
-- I use a lot of AI assistance to get stuff done, iterate quickly, and get what I want, be it a function, a complicated SQL query, a solution to a technical problem. I care about getting to the outcomes I want as effeciently (and safely) as possible. So far, this approach has enabled me to learn a lot, quickly, mostly by doing.
+### What's here
+- **[matt-dlpfc.github.io](https://matt-dlpfc.github.io)**: my (to-become) personal site, built with Quartz and published from a folder in my Obsidian vault. It's really just an empty shell at the moment.
+- **[interesting-questions](https://github.com/matt-dlpfc/interesting-questions)**: a small invite-only web app for sparking better conversations, one question at a time. Paused and incomplete (after working on it for a few hours, I decided it wasn't worth bringing into existence), but you can spin up your own instance.
+- Older repos (2022–2024) are archived. They were early data-analysis practice in Python, SQL and R - from when I wanted to get better at quantitative data analysis.
 
-Other facts about me:
-- I am an [Obsidian](https://obsidian.md/) nerd.
-- I work in an AI startup operating in the pharmaceutical industry > drug discovery.
-- I love learning new stuff and deepening stuff I already know. Bonus: I love when passionate people explain stuff to me and let me bombard them with questions.
-- I hate football / soccer, and I am not so fond of sport-related talks.
-- I can easily get absorbed by wildly different topics if there is a reason to, which can be as simple as someone mentioned this topic to me and sounded "nominally interesting".
-- I am young and I am "desperate" to maximize my personal growth.
+### Probably next
+A template of my "second brain": an Obsidian vault run by Claude Code skills that file what I read, route my daily notes to the right places, and keep a review queue, so the AI does the bookkeeping and I do the thinking.
 
-Currently (May 2025) working on:
-- dataset building and analysis of siRNA therapeutics's clinical landscape, analyzing phase progression rates, prevalent therapeutic areas and conditions, drug delivery systems, targeted tissues, and any combination of the previous. It's cool because it is becoming an increasingly accurate (and rare) representation of the siRNA Tx market, observing it from (almost!) all of the relevant angles it can be looked at to act strategically. Helping with fundraising, credibility building, strategy formulation.
+### Also
+- Obsidian nerd.
+- I love it when passionate people let me bombard them with questions. Happy to be bombarded back: [linkedin](https://www.linkedin.com/in/bulleri-matteo/)
+
